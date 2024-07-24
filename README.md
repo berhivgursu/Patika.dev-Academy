@@ -7,4 +7,9 @@ Veri Yapıları ve Algoritmalar
 
 -Merge Sort Projesi
 
--Binary Search Tree Projesi 
+-Binary Search Tree Projesi
+
+C# 101
+
+-Değişkenler ve Veritipleri
+
