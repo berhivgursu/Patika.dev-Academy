@@ -1,7 +1,7 @@
 # Patika.dev-Academy
 "Patika.dev" de aldığım eğitimlerde yaptığım ödevler
 
-Veri Yapıları ve Algoritmalar
+# Veri Yapıları ve Algoritmalar
 
 -Selection Sort Projesi
 
@@ -9,7 +9,7 @@ Veri Yapıları ve Algoritmalar
 
 -Binary Search Tree Projesi
 
-C# 101
+# C# 101
 
 -Değişkenler ve Veri Tipleri
 
