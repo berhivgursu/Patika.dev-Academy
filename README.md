@@ -11,7 +11,7 @@ Veri Yapıları ve Algoritmalar
 
 C# 101
 
--Değişkenler ve Veritipleri
+-Değişkenler ve Veri Tipleri
 
 -Operatörler
 
