@@ -15,3 +15,4 @@
 
 -Tür Dönüşümleri
 
+-Try Catch Finally ve Mantıksal Hatalar
