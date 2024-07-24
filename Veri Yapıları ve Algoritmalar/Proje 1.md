@@ -11,11 +11,15 @@
 [2,6,16,18,22,27] -> 4. adım (18 ile 22 yer değiştirdi)
 
 *Big-O gösterimini yazınız.
+
 O(n^2)
 
 -Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+
 Average case: Aradığımız sayının ortada olması
+
 Worst case: Aradığımız sayının sonda olması
+
 Best case: Aradığımız sayının dizinin en başında olması.
 
 Sıralandıktan sonra ortada olduğu için 'Average case' kapsamındadır.
