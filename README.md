@@ -16,5 +16,4 @@
 -Tür Dönüşümleri
 
 -Hata Yönetimi ve Kod İzleme
-
 --Try Catch Finally ve Mantıksal Hatalar
