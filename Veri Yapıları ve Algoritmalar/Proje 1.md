@@ -15,7 +15,6 @@
 O(n^2)
 
 -Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-
 Average case: Aradığımız sayının ortada olması
 
 Worst case: Aradığımız sayının sonda olması
@@ -25,7 +24,11 @@ Best case: Aradığımız sayının dizinin en başında olması.
 Sıralandıktan sonra ortada olduğu için 'Average case' kapsamındadır.
 
 *[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
 [2,3,5,8,7,9,4,15,6] -> 1. adım (2 ile 7 yer değiştirdi)
+
 [2,3,5,8,7,9,4,15,6] -> 2. adım (Sıradaki en küçük eleman 3 olduğu için dizi aynı kaldı)
+
 [2,3,4,8,7,9,5,15,6] -> 3. adım (4 ile 5 yer değiştirdi)
+
 [2,3,4,5,7,9,8,15,6] -> 4. adım (5 ile 8 yer değiştirdi)
