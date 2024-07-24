@@ -13,3 +13,7 @@ C# 101
 
 -Değişkenler ve Veritipleri
 
+-Operatörler
+
+-Tür Dönüşümleri
+
