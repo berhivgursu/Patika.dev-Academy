@@ -16,4 +16,8 @@
 -Tür Dönüşümleri
 
 -Hata Yönetimi ve Kod İzleme
---Try Catch Finally ve Mantıksal Hatalar
+-*Try-Catch Finally ve Mantıksal Hatalar
+
+-Karar Yapıları
+-*If-Else ve Ternary If
+-*Switch-Case
