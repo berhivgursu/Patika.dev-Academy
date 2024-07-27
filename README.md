@@ -24,3 +24,9 @@
 **If-Else ve Ternary If
 
 **Switch-Case
+
+-Döngüler
+
+**For Loop ve Break-Continue İfadeleri
+
+**While-Foreach
