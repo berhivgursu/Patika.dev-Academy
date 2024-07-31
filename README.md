@@ -30,3 +30,9 @@
 **For Loop ve Break-Continue İfadeleri
 
 **While-Foreach
+
+-Diziler
+
+**Tanımlama-Erişim ve Döngğlerle Dizi Kullanımı
+
+**Array Sınıfı Methodları
