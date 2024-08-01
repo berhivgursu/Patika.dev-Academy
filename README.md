@@ -36,3 +36,11 @@
 **Tanımlama-Erişim ve Döngğlerle Dizi Kullanımı
 
 **Array Sınıfı Methodları
+
+-Metotlar
+
+**Metot Tanımlama
+
+**Metot Overloading
+
+**Rekürsif ve Extension Metotlar
