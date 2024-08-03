@@ -33,7 +33,7 @@
 
 -Diziler
 
-**Tanımlama-Erişim ve Döngğlerle Dizi Kullanımı
+**Tanımlama-Erişim ve Döngülerle Dizi Kullanımı
 
 **Array Sınıfı Methodları
 
