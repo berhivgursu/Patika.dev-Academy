@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ex2
+namespace ex_2
 {
     public class Program
     {
