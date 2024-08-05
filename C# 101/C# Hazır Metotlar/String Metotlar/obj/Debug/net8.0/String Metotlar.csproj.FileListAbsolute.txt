@@ -1,0 +1,14 @@
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\bin\Debug\net8.0\String Metotlar.exe
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\bin\Debug\net8.0\String Metotlar.deps.json
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\bin\Debug\net8.0\String Metotlar.runtimeconfig.json
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\bin\Debug\net8.0\String Metotlar.dll
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\bin\Debug\net8.0\String Metotlar.pdb
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.AssemblyInfoInputs.cache
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.AssemblyInfo.cs
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.dll
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\refint\String Metotlar.dll
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.pdb
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\String Metotlar.genruntimeconfig.cache
+C:\Users\berhi\OneDrive\Masaüstü\Patika.dev Academy\C# 101\C# Hazır Metotlar\String Metotlar\obj\Debug\net8.0\ref\String Metotlar.dll
