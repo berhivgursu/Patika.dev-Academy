@@ -46,3 +46,9 @@
 **Rekürsif ve Extension Metotlar
 
 -Ödev 1
+
+-C# Hazır Metotlar
+
+**String Metotlar
+
+**DateTime ve Math Sınıfı
