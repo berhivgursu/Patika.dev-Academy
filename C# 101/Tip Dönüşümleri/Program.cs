@@ -2,7 +2,7 @@
 
 namespace Tip_Donusumleri
 {
-    public class Program
+    class Program
     {
         public void Main(string[] args)
         {
