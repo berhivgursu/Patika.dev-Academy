@@ -4,7 +4,7 @@ using System.Net.Http.Headers;
 
 namespace Degiskenler_ve_Veritipleri
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
