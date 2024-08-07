@@ -2,7 +2,7 @@
 
 namespace If_Else_ve_Ternary_If
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
