@@ -2,7 +2,7 @@
 
 namespace ex_1
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
