@@ -2,7 +2,7 @@
 
 namespace Tanımalama_Erişim_ve_Döngülerle_Dizi_Kullanımı
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
