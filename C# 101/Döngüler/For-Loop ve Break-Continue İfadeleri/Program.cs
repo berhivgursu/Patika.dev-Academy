@@ -2,7 +2,7 @@
 
 namespace For_Loop_ve_Break_Continue
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
