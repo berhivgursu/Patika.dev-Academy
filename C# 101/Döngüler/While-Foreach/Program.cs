@@ -2,7 +2,7 @@
 
 namespace While_Foreach
 {
-    public class Program
+    class Program
     {
         static void Main()
         {
