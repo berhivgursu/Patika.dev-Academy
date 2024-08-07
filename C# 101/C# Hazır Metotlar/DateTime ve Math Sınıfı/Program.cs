@@ -2,7 +2,7 @@
 
 namespace DateTime_ve_Math_Sinifi
 {
-    public class Program
+    class Program
     {
         public static void Main(string[] args)
         {
