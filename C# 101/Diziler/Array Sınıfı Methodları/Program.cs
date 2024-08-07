@@ -2,7 +2,7 @@
 
 namespace Array_Sınfı_Methodları
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
