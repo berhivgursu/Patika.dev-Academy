@@ -2,7 +2,7 @@
 
 namespace Try_Catch_Finally_ve_Mantiksal_Hatalar
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
