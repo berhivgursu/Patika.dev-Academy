@@ -9,35 +9,35 @@
 -Binary Search Tree Projesi
 
 # C# 101
--Değişkenler ve Veri Tipleri
+ —Değişkenler ve Veri Tipleri
 
--Operatörler
+ —Operatörler
 
--Tür Dönüşümleri
+ —Tür Dönüşümleri
 
--Hata Yönetimi ve Kod İzleme
+ —Hata Yönetimi ve Kod İzleme
 
 **Try-Catch Finally ve Mantıksal Hatalar
 
--Karar Yapıları
+ —Karar Yapıları
 
 **If-Else ve Ternary If
 
 **Switch-Case
 
--Döngüler
+ —Döngüler
 
 **For Loop ve Break-Continue İfadeleri
 
 **While-Foreach
 
--Diziler
+ —Diziler
 
 **Tanımlama-Erişim ve Döngülerle Dizi Kullanımı
 
 **Array Sınıfı Methodları
 
--Metotlar
+ —Metotlar
 
 **Metot Tanımlama
 
@@ -45,15 +45,15 @@
 
 **Rekürsif ve Extension Metotlar
 
--Ödev 1
+ —Ödev 1
 
--C# Hazır Metotlar
+ —C# Hazır Metotlar
 
 **String Metotlar
 
 **DateTime ve Math Sınıfı
 
--Koleksiyonlar
+ —Koleksiyonlar
 
 **Koleksiyonlar Nelerdir, Avantajları ve Dezavantajları Nelerdir
 
