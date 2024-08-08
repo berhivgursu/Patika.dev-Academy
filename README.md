@@ -52,3 +52,13 @@
 **String Metotlar
 
 **DateTime ve Math Sınıfı
+
+-Koleksiyonlar
+
+**Koleksiyonlar Nelerdir, Avantajları ve Dezavantajları Nelerdir
+
+**Generic Koleksiyonlar ve List
+
+**ArrayList
+
+**Dictionary
