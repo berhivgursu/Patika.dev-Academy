@@ -4,7 +4,7 @@ using System.Transactions;
 
 namespace Generic_Koleksiyonlar_ve_List
 {
-    public class Program
+    class Program
     {
         public static void Main(string[] args)
         {
