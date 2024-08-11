@@ -62,3 +62,5 @@
 **ArrayList
 
 **Dictionary
+
+—>Ödev 2
