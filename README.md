@@ -64,3 +64,17 @@
 **Dictionary
 
 —>Ödev 2
+
+—>Sınıf Kavramı
+
+**Sınıf Nedir - Instance, Field, Property
+
+**Erişim Belirleyiciler ve Kurucu Fonksiyonlar
+
+**Encapsulation ve Property Kavramı
+
+**Static Sınıf ve Üyeler
+
+**Struct(Yapı) Kavramı
+
+**Enum
